@@ -16,6 +16,9 @@ public class angular {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
 		driver.get("https://rahulshettyacademy.com/angularpractice/");
 		driver.getTitle();
+		driver.getTitle();
+		driver.getTitle();)
+		
 		driver.findElement(By.name("name")).sendKeys("vimal");
 		driver.findElement(By.name("email")).sendKeys("vimal@gmail.com");
 		driver.findElement(By.id("exampleInputPassword1")).sendKeys("raju");
