@@ -27,11 +27,8 @@
     <version>7.7.0</version>
     
 </dependency>
-  	<dependency>
-  		<groupId>Interview</groupId>
-  		<artifactId>DivijaEnterprises</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
+ 
   	<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 <dependency>
     <groupId>org.apache.poi</groupId>
